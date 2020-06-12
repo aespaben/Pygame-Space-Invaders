@@ -3,9 +3,9 @@ El clásico videojuego de Space Invaders, programado usando el módulo Pygame de
 
 # Instrucciones
 
-- Instalar (https://www.python.org/)[Python 3].
+- Instalar [Python 3](https://www.python.org/).
 - Instalar el módulo **pygame**:
-  - pip pygame
+  - pip install pygame
   
 - Correr el juego:
   - py main.py
